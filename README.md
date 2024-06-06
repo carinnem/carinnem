@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🌱 I am brand new and currently learning 'all the things!'
+- 📫 How to reach me: cmcanally4@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: A pair of sparrows has established permanent residency near my front door and are on their 2nd clutch.
 
 <!--
 **carinnem/carinnem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
